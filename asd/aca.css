@@ -1,0 +1,27 @@
+video {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+  }
+
+  #reg {
+    background: #00b9ad !important;
+  }
+
+  #ayuda {
+    background: #abc439;
+  }
+
+  .mybutton {
+    background: #abc439;
+    top: 50%;
+    text-decoration: none !important;
+  }
+
+  .mybutton {
+    z-index: 9999 !important;
+  }
+
+  .h2banner {
+    top: 30%;
+  }

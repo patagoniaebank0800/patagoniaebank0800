@@ -1,0 +1,78 @@
+#loginDocumento select {
+    width: 70px !important;
+    margin: 0px;
+    line-height: 15px;
+    height: 18px;
+    
+}
+
+#radiosTipoLogin {
+    padding-left: 10%;
+    line-height: 30px;
+}
+
+#radioLogin {
+    float: left;
+    padding-left: 30px;
+    line-height: 30px;
+}
+
+#radioLogin input {
+    background-color: #B3C8D9;
+}
+
+#footerLogin {
+    clear: both;
+    width: 100%;
+    height: 170px;
+    margin-left: 21px;
+    margin-right: auto;
+    margin-top: 0px;
+    font-family: arial;
+    font-size: 11px;
+    color: #0C2E72;
+}
+
+#seguridad {
+    width: 221px;
+    height: 165px;
+    float: left;
+    background: transparent url(../as/imgSeguridad.gif) no-repeat right top;
+    margin: 0px;
+    margin-bottom: 5px;
+    padding: 0px;
+}
+
+#seguridad span b {
+    font-weight: bold;
+}
+
+#ayuda {
+    width: 219px;
+    height: 165px;
+    float: left;
+    background: transparent url(../as/imgAyuda.gif) no-repeat left top;
+    margin: 0px;
+    padding: 0px;
+}
+
+#ayuda span {
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin-left: 0px;
+}
+
+#footer span {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#footer p {
+    margin: 2px;
+    padding: 3px;
+}
+input:hover {
+
+    font-size: 14px;
+
+}
